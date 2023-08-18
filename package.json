@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/annthurium/affirmations.git"
+    "url": "git+https://github.com/baracus9988/affirmations.git"
   },
   "engines": {
-    "node": "8.0.0"
+    "node": "8.3.0"
   },
   "author": {
     "name": "tilde",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/annthurium/affirmations/issues"
+    "url": "https://github.com/baracus9988/affirmations/issues"
   },
-  "homepage": "https://github.com/annthurium/affirmations#readme",
+  "homepage": "https://github.com/baracus9988/affirmations#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
